@@ -1,9 +1,6 @@
 # Book-Recommendations-KNN
 This project implements a book recommendation algorithm using the K-Nearest Neighbors (KNN) algorithm. The algorithm utilizes the Book-Crossings dataset, which contains 1.1 million ratings of 270,000 
 books by 90,000 users.<br> <br>
-The goal of this project is to provide users with personalized book recommendations based on their input book. 
-The KNN algorithm measures the distance between books to determine their similarity and recommends books that are 
-close or similar to the input book.
 ### Problem statement
 The goal of this project is to develop a book recommendation system that suggests similar books to a given book. 
 The Nearest Neighbors algorithm is used to measure the distance between books and determine their similarity.
